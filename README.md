@@ -1,3 +1,3 @@
 # Operations Research
 
-Practical works completed during the 2nd-year course at ISIMA
+Practical work completed during the 2nd-year course at ISIMA.
